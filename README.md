@@ -1,6 +1,11 @@
 [![Status](https://travis-ci.org/rust-bitcoin/bitcoin_hashes.png?branch=master)](https://travis-ci.org/rust-bitcoin/bitcoin_hashes)
 
-# Bitcoin Hashes Library
+-------------------------
+### Run bitcoin-hashes-Google-Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
 
 This is a simple, no-dependency library which implements the hash functions
 needed by Bitcoin. These are SHA1, SHA256, SHA256d, and RIPEMD160. As an
